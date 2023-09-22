@@ -47,14 +47,14 @@ p1
 ```
 
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+shows everyones favourite number
 
 ### Exercises 19
 
 Change the text of the plot title and axis labels.
 
 ```{r labelled-bar-plot}
-p1 + labs(x = "6", 
+p1 + labs(x = "wow", 
           y = "is",
           title = "cool")
 ```
